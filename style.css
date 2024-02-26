@@ -1,0 +1,39 @@
+.baptista{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+background-color: rgb(175, 243, 248);
+border-radius: 20px;
+box-shadow: 25px 21px 33px 0px rgba(0, 0, 0, 0,75);
+width: 600px;
+height: 400px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(0, 0, 0);
+padding-left: 30px ;
+margin-bottom: 20px;
+
+}
+
+a{
+cursor: pointer;
+
+}
+footer>a{
+    cursor: pointer;
+    text-decoration: none;
+    text-decoration-color: blanchedalmond;
+    }
+    
+.bfotos{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+
+
+}
+
+.bfotos>img{
+border-radius: 20px;
+
+}
